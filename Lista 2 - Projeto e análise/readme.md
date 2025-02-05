@@ -4,6 +4,9 @@
 <b> 
 Mostre numericamente com suas implementações dos algoritmos de multiplicação de matrizes que o algoritmo de Strassen é mais rápido que o algoritmo convencional.
 </b>
+<br>
+<br>
+
 O algoritmo convencional de matrizes pode ser observado abaixo:
 
 ```python
@@ -104,6 +107,9 @@ Foram geradas matrizes aleatórias de diferentes tamanhos, para entender em que 
 <b>
 Escolha um algoritmo recorrente para aplicar um dos 4 métodos de resolução de recorrência descritos no capítulo 4 para medir o custo da recorrência do algoritmo escolhido. 
 </b>
+<br>
+<br>
+
 
 O método mestre fornece uma receita para resolver recorrências na forma:
 
@@ -144,6 +150,9 @@ $$
 O problema de balanceamento de cargas busca atribuir tarefas de tamanhos diferentes a trabalhadores, de modo a minimizar a carga máxima que um trabalhador irá executar. Em um problema em que temos n tarefas e k trabalhadores (n > k),  considere que o balanceador irá distribuir as n/k primeiras tarefas para o primeiro trabalhador,  as n/k tarefas seguintes para o segundo trabalhador, e assim por diante. Mostre numericamente como permutar aleatoriamente os dados de entrada, que são as cargas de cada tarefa, pode influenciar na solução desse balanceador.
 
 </b>
+<br>
+<br>
+
 
 * Vamos distribuir n tarefas de diferentes tamanhos entre k trabalhadores, de forma que a carga máxima atribuída a qualquer trabalhador seja minimizada
 * Forma sem permutação : as n/k primeiras tarefas são atribuidas ao primeiro trabalhador, n/k tarefas ao segundo e assim por diante:
