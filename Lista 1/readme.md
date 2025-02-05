@@ -1,4 +1,4 @@
-# Lista 01
+# Lista 01 - Fundamentos
  ## Questão 1
  <b>Escreva um pseudocódigo para a busca linear e mostre, usando invariância de laço, que o seu algoritmo está correto. </b>
 
